@@ -17,7 +17,7 @@ TEAM_MEMBER_3:V.VIJAYALAKSHMI
 
 NAME:PARTHIBAN
 
-DEMONSTRATION LINK:
+DEMO LINK:
 
 https://drive.google.com/file/d/1TxuO6AxkKOMUls3ZTJCVXkQnMfMJftZT/view?usp=drivesdk
 
